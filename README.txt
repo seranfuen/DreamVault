@@ -1,0 +1,1 @@
+A WPF Dream Diary application written in .NET that allows not only recording the content of dreams, but also tagging the dreams and obtaining statistics about them.
